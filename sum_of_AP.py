@@ -5,3 +5,4 @@ for i in range(n):
     sum = sum + value
     value = value + d
 print(sum)
+print()
